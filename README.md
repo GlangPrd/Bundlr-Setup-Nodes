@@ -22,7 +22,7 @@
  Bu dosyanın ismini wallet.json olarak güncelleyin. VE MUTLAKA YEDEKLEYİN
  Ardından bu cüzdanı sunucumuzda validator-rust klasörünün içine atıyoruz.
  
- #Servis dosyamızı oluşturuyoruz
+ # Servis dosyamızı oluşturuyoruz
  
 -tee $HOME/validator-rust/.env > /dev/null <<EOF
 PORT=80
